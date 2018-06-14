@@ -1,0 +1,7 @@
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\TaxcomTest\TaxcomTest\bin\Debug\TaxcomTest.exe.config
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\TaxcomTest\TaxcomTest\bin\Debug\TaxcomTest.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\TaxcomTest\TaxcomTest\bin\Debug\TaxcomTest.pdb
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\TaxcomTest\TaxcomTest\obj\Debug\TaxcomTest.csprojAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\TaxcomTest\TaxcomTest\obj\Debug\TaxcomTest.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\TaxcomTest\TaxcomTest\obj\Debug\TaxcomTest.exe
+C:\Users\Антон\Documents\Visual Studio 2017\Projects\TaxcomTest\TaxcomTest\obj\Debug\TaxcomTest.pdb
